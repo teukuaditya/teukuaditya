@@ -45,3 +45,11 @@
   <a href="https://www.linkedin.com/in/teukuaditya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/teukuaditya._/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
+---
+
+### 🐍 Watch my contributions snake
+
+<p align="center">
+  <img src="https://github.com/teukuaditya/teukuaditya/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
